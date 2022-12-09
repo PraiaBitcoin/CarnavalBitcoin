@@ -1,13 +1,16 @@
 # About Carnaval Bitcoin
 
-The Bitcoin Law leveled the playing field between Bitcoin and the Dollar in El Salvador, Salvadorans went from 70% unbanked to having the option of using Bitcoin as money, and inspired Praia Bitcoin, to replicate the El Zonte's original Bitcoin Beach experiment in Jericoacoara, northest of Brazil.
+The Bitcoin Law leveled the playing field between Bitcoin and the Dollar in El Salvador, Salvadorans went from 70% unbanked to having the option of using Bitcoin as money and inspired Praia Bitcoin, to replicate the El Zonte's original Bitcoin Beach experiment in Jericoacoara, northest of Brazil.
 
-This novel situation comes with both, the challenge to onboard users, and the opportunity to learn from them for the benefit of the entire ecosystem - from protocol and application devs to entrepreneurs and investors. A successful adoption of Bitcoin at this scale will be a historic milestone that could benefit Bitcoin ecosystem for years to come, and serve as a blueprint for peoples that want to follow the footprint of Salvadorans and of course the Brazilian initiative.
+This novel situation comes with both, the challenge to onboard users, and the opportunity to learn from them for the benefit of the entire ecosystem - from protocol and application devs to entrepreneurs and investors. A successful adoption of Bitcoin at this scale will be a historic milestone that could benefit Bitcoin ecosystem for years to come, and serve as a blueprint for peoples that want to follow the footprint of the Brazilian initiative.
 
 The event aims to connect Bitcoin and Lightning businesses, developers, and the local community. We will create a space for hands-on collaboration through workshops and hackerspaces that will explore:  
 - The challenges faced to onboard users.
 - The opportunity to learn from the Jericoacoara experience for the benefit of the entire ecosystem
 - The blueprint to ensure the successful adoption of Bitcoin at a nation scale 
+
+Futhermore, Bitcoiners will be able to make Bitcoin contactless payments in 21 merchants, using NFC Cards or bracelets provided by the event organization with a "Abadá", a traditional Carnaval uniform, for people to socialize and walk together bringing the orange wave to local stores.
+
 
 ## Why?
 
